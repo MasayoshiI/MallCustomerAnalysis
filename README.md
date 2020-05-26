@@ -6,4 +6,4 @@ Using Mall_Customers.csv from https://drive.google.com/file/d/19BOhwz52NUY3dg8XE
 
 ### Author
 Masayoshi Iwasa (miwasa20@bu.edu)
-Kentaro Tanaka 
+Kentaro Tanaka (kennygtanaka@gmail.com) 
