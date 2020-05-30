@@ -69,7 +69,7 @@ class MallCustAnalyzer():
         plt.show()
 
     def k_mean(self):
-        
+        pass
 
 def main():
     # Read/convert to df data using pd 
